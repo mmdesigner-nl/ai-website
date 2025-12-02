@@ -1,7 +1,0 @@
-ai-website/
-├─ backend/
-│  ├─ server.js
-│  └─ package.json
-├─ frontend/
-│  ├─ index.html
-│  └─ script.js
